@@ -26,5 +26,3 @@ https://www.canva.com/design/DAG24L4of7Y/gqsrKCEmzGwmpF_FGUNXwg/edit
 - Vercel
 - Canva
 
-## Author
-Daksh Dua
