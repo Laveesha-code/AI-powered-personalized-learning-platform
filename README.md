@@ -1,18 +1,30 @@
-# AI Personalized Learning Platform
+# AI-Assisted Personalized Learning Platform
 
-An interactive personalized learning platform designed to improve learning experiences through smart recommendations and modern UI.
+A personalized learning platform conceptualized, designed, and deployed using AI-assisted development tools.
 
 ## Live Demo
 https://v0-ai-personalized-learning-platfor.vercel.app/
 
-## UI/UX Design
+## Design Prototype
 https://www.canva.com/design/DAG24L4of7Y/gqsrKCEmzGwmpF_FGUNXwg/edit
 
-## Features
-- Personalized learning experience
-- Clean and responsive interface
-- User-friendly navigation
-- Modern educational dashboard
+## My Contribution
+- Project idea and feature planning
+- Prompt engineering to generate app structure
+- UI/UX customization
+- Testing and iteration
+- Deployment and project presentation
 
-## Project Type
-Frontend / UI Concept / Prototype
+## Features
+- Personalized learning flow
+- Responsive modern UI
+- Clean dashboard experience
+- Education-focused interface
+
+## Tools Used
+- AI app builder
+- Vercel
+- Canva
+
+## Author
+Daksh Dua
